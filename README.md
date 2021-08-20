@@ -1,2 +1,3 @@
-#Food Ordering App
+# Food Ordering App
+
 Made primarily using ReactJS
